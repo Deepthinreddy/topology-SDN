@@ -112,31 +112,6 @@ When a link goes down:
 
 ---
 
-## 📸 Screenshots
-
-### 1. Initial Topology Working
-
-![Initial Ping](images/ping_success.png)
-
----
-
-### 2. Link Failure Command
-
-![Link Down](images/link_down.png)
-
----
-
-### 3. Network After Failure
-
-![Ping Failure](images/ping_fail.png)
-
----
-
-### 4. Reconfiguration Logs
-
-![Logs](images/reconfig_logs.png)
-
----
 
 ## 📊 Observations
 
